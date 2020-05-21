@@ -1,0 +1,17 @@
+{
+  "name": "gradient-tag",
+  "version": "1.0.0",
+  "description": "React Gradient Tag Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "tag",
+    "gradient"
+  ],
+  "author": "jjy",
+  "license": "MIT"
+}
